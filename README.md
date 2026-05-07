@@ -1,5 +1,5 @@
 # OBSkipNight
-Minecraft bukkit/spigot plugin to provide a command to skip the night. Always something<br>
+Minecraft PaperMC plugin to provide a command to skip the night. Always something<br>
 the players on our PlayerServers wants to do. Minimal config. Just three properties<be>
 which can be set through the command.<br>
 
