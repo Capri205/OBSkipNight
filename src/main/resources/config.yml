@@ -1,0 +1,11 @@
+# Config file for OBSkipNight
+#
+
+# show night skip to all players
+broadcast: true
+
+# owner only command
+owneronly: false
+
+# countdown timer in seconds
+timer: 5

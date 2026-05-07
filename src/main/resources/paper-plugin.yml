@@ -1,0 +1,7 @@
+name: OBSkipNight
+version: '1.0'
+main: net.obmc.obskipnight.OBSkipNight
+description: Skip the night
+api-version: '1.21'
+bootstrapper: net.obmc.obskipnight.OBSkipNightBootstrap
+loader: net.obmc.obskipnight.OBSkipNightLoader
